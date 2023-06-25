@@ -1,0 +1,54 @@
+body {
+   
+}
+
+.titulo-principal {
+    padding: 20px;
+}
+
+#banner {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.principal {
+    background: #d2e4f3
+}
+
+.titulo-centralizado {
+    text-align: center;
+    color: #000000;
+    height: 100px;
+}
+
+p {
+    text-align: center;
+    color: #000000;
+}
+
+#missão {
+    style="font-size: 20px;"
+}
+
+strong {
+    color: #ee4266;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background-color: #ffffff;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembeneficio {
+    width: 50%;
+}
